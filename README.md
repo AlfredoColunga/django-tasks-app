@@ -1,2 +1,2 @@
-# Django To-Do Notes App
+# Django Notes App
 A Django web application with authentication, to manage notes.
